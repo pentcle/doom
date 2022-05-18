@@ -8,6 +8,10 @@ body {
     background-color: black;
 }
 
+a {
+    color: white;
+}
+
 header {
     margin: 0;
     padding: 0;
